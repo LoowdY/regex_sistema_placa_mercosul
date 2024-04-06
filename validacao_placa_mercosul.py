@@ -62,12 +62,12 @@ def menu():
 
 #estrutura de decisão para menu
         if escolha == '1':
-            placa = input("Digite a placa para adicionar: ").strip().upper()
+            placa = input("Digite a placa para adicionar: ").strip()
             adicionar_placa(placa)
             print("Placa adicionada.")
 
         elif escolha == '2':
-            placa = input("Digite a placa para remover: ").strip().upper()
+            placa = input("Digite a placa para remover: ").strip()
             if placa in placas_crud['placas']:
                 remover_placa(placa)
                 print("Placa removida.")
