@@ -40,7 +40,4 @@ Para executar este sistema, você precisa ter Python instalado em sua máquina. 
 
 Este projeto demonstra a aplicabilidade das expressões regulares e conceitos da teoria da computabilidade na implementação de sistemas reais. Através deste sistema, estudantes e profissionais podem entender como linguagens formais e autômatos são essenciais no desenvolvimento de soluções computacionais para problemas do mundo real.
 
-## Licença
-
-Este projeto é licenciado sob a MIT License - veja o arquivo LICENSE.md para detalhes.
 
